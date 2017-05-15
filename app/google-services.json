@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68525659311",
+    "firebase_url": "https://historijskimuzejbih-985c5.firebaseio.com",
+    "project_id": "historijskimuzejbih-985c5",
+    "storage_bucket": "historijskimuzejbih-985c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68525659311:android:1135ed8c2a105481",
+        "android_client_info": {
+          "package_name": "com.example.dana.muzej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68525659311-1oj65edqkd4d673982truf9jas6ksgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_Cctp9ODsfGrz3QDlKnn7hLT3QxgwxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

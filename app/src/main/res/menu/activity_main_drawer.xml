@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="@string/about"
+            android:icon="@drawable/about_icon" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/about_icon"
+            android:title="@string/info" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="@string/wnew" />
+        <item
+            android:id="@+id/nav_nearby"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/near" />
+    </group>
+
+    <item android:title="@string/like">
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@android:drawable/btn_star_big_on"
+                android:title="@string/rate" />
+            <item
+                android:id="@+id/nav_support"
+                android:icon="@drawable/support_icon"
+                android:title="@string/support" />
+            <item
+                android:id="@+id/nav_book_a_tour"
+                android:icon="@drawable/booking_icon"
+                android:title="@string/book" />
+        </menu>
+    </item>
+
+</menu>

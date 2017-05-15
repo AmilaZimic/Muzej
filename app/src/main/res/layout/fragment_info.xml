@@ -1,0 +1,122 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_color"
+    tools:context="com.example.dana.muzej.Fragments.InfoFragment">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/image1"
+        android:layout_alignParentTop="true"
+        />
+
+    <LinearLayout
+        android:id="@+id/first"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/image1">
+
+        <TextView
+            android:id="@+id/itext1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="@string/info1"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_above="@+id/itext2" />
+
+        <TextView
+            android:id="@+id/itext3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="@string/info3"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_above="@+id/itext12"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <TextView
+            android:id="@+id/itext2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="@string/info2"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_above="@+id/itext3"
+            android:layout_alignRight="@+id/itext11"
+            android:layout_alignEnd="@+id/itext11" />
+
+        <TextView
+            android:id="@+id/itext4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="@string/info4"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_above="@+id/itext5"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/itext5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/info5"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/itext11"
+            android:layout_alignEnd="@+id/itext11" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/image1"
+        android:layout_toRightOf="@+id/first">
+
+        <TextView
+            android:id="@+id/itext11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/info11"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/itext12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/info12"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="#ffffff"
+            android:layout_above="@+id/itext5"
+            android:layout_alignRight="@+id/itext11"
+            android:layout_alignEnd="@+id/itext11"
+            android:layout_marginBottom="38dp" />
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

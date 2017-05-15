@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Historijski muzej</string>
+
+    <string name="about1" translatable="false">O MUZEJU</string>
+
+    <string name="about2">Historijski muzej BiH se bavi prikupljanjem, čuvanjem, istraživanjem, prezentacijom i promovisanjem kulturno-historijskog naslijeđa Bosne i Hercegovine. U svojoj sedamdesetogodišnjoj historiji je prošao niz preobražaja: od promjene naziva, do promjene strukture i lokacije.\n\n</string>
+
+    <string name="about3">Nastao iz Muzeja revolucije BiH usmjerenog na historiju borbe protiv fašizma u Drugom svjetskom ratu i na njegovanje vrijednosti socijalističke države, Historijski muzej BiH danas govori o različitima temama i fazama bosanskohercegovačke historije - nerijetko kroz perspektivu svjedoka vremena i perspektivu običnog čovjeka.\n\n</string>
+
+    <string name="about4"> Nakon rata 1992-1995 Muzej je, kao i druge institucije kulture sa državnim predznakom, ostao van pravnih okvira i bez redovne finansijske podrške. Muzej je opstao zahvaljući konceptu otvorenosti prema društvu i jačanjem veza sa zajednicom, nudeći publici sadržaje pomoću kojih se kroz muzejske predmete, priče i prostor govori o prošlosti, sadašnjosti i budućnosti.\n\n</string>
+
+    <string name="about5"> Specifičan je i po jedinstvenoj zgradi koju su projektovali Boris Magaš, Edo Šmidihen i Radovan Horvat, koja predstavlja jedinstven primjer internacionalnog stila u arhitekturi. Svojim dominantnim kubusom i čistim formama se i danas ističe u panorami grada Sarajeva.\n\n</string>
+
+    <string name="info1">Adresa:\nZmaja od Bosne 5, 71 000 Sarajevo</string>
+    <string name="info11">Ulaznice:\nOdrasli: 5KM\nŠkolske grupe: 2KM\nInvalidi: 1KM\n</string>
+    <string name="info12">Vodič:\nNa bosanskom: 20KM\nNa engleskom: 30KM</string>
+    <string name="info2">Radno vrijeme:\n09:00-19:00</string>
+    <string name="info3">Broj telefona:\n+387 33 226 098\n+387 33 210 416</string>
+    <string name="info4">Direktor:\nElma Hasimbegovic</string>
+    <string name="info5">E-mail:\nhistmuz@bih.net.ba\nhasimbegovic@muzej.ba</string>
+    <string name="support4">"Individualna podrška\\n\\n                             Veće ili manje, pojedinačne donacije važna su podrška djelatnostima Historijskog muzeja Bosne i Hercegovine. Svojim doprinosom pomažete nam u prikupljanju, očuvanju i izlaganju našeg zajedničkog kulturno i historijskog naslijeđa. Jednokratne donacije možete uplatiti na žiroračun Historijskog muzeja BiH:\\n\\n                             Banka: Raiffeisen Bank d.d. Bosna i Hercegovina, Sarajevo\\n                             Transakcijski račun: 1610000016710007\\n                             IBAN code: BA 391610000016710007\\n\\n\\n "</string>
+    <string name="support1">PRIDRUŽITE NAM SE</string>
+    <string name="support2">PODRŽITE MUZEJ</string>
+    <string name="support5">"Pokrovitelji i partneri\n\nPodržite Historijski muzej BiH kao pokrovitelji ili korporativni partneri tako što ćete sponzorirati njegove djelatnosti na skupljanju, zaštiti i prezentaciji kulturno i historijskog naslijeđa. Pokroviteljski ili partnerski odnos sa jednom od najuglednijih kulturnih i naučnih ustanova u Bosni i Hercegovini pomaže vam da ostvarite svoje filantropske i poslovne ciljeve prema načelima društvene odgovornosti. Historijski muzej BiH nudi različite oblike pokroviteljstva i partnerstva: dugoročna podrška pojedinačnim odjeljenjima, odsjecima, zbirkama, izložbama i eksponatima. U skladu s vašim afinitetima i mogućnostima, možete se opredijeliti za jedan ili više oblika saradnje i podrške. Za više detalja o mogućnostima podrške, kontaktirajte Direkciju Historijskog muzeja posredstvom e-maila: hasimbegovic@muzej.ba, ili pozivom na telefon: + (387) 33/226 098.\n\n "</string>
+    <string name="support6">"Podržite mobilnu aplikaciju muzeja\n\nMobilna aplikacija Historijskog muzeja ne nudi samo osnovne informacije o njegovom radu, nego i jedinstven uvid u njegove zbirke. Posjetitelji web-stranice mogu uživati u virtualnim posjetama pojedinim odjeljenjima i izložbama. Muzejski eksponati su predstavljeni fotografijama ili trodimenzionalnim prezentacijama vrhunskoga kvaliteta. Osim toga, aplikacija će baciti svjetlo i na one predmete koji nisu izloženi u stalnim postavkama Historijskog muzeja BiH, nego su pohranjeni u depoima. Dodajmo tome i elektronske verzije publikacije Glasnik Historijskog muzeja, kao i planove o nastavku digitaliziranja raritetnih izdanja koja se nalaze u posjedu Muzeja. Doprinesite širenju i obogaćivanju virtualne zbirke Historijskog muzeja BiH kroz pojedinačne donacije, odnosno kroz pokroviteljske ili partnerske aranžmane!\n\n "</string>
+    <string name="support7">"Donacija predmeta\n\nDoniranje predmeta od historijskog značaja uvijek je bio i ostaje jeste jedan od najvažnijih načina na koji muzeji obogaćuju svoje kolekcije. Historijski muzej BiH nije izuzetak u tome: radovat će nas da pružimo odgovarajuću muzejsku skrb predmetima koji su u vašem posjedu, a smatrate da zavređuju naučni interes. Ako ste u posjedu jednog ili više takvih predmeta koje biste željeli pokloniti Historijskom muzeju, kontaktiraje nas posredstvom e-mail adrese: hasimbegovic@muzej.baili pozivom na telefon: + (387) 33/226 098. Molimo vas da predmete ne dostavljate samoinicijativno u Muzej (poštom ili na bilo koji drugi način) prije nego što naši kustosi procijene kvalitet i vrijednost predmeta.\n\n  "</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="rate1">Ocijenite našu aplikaciju</string>
+    <string name="ratebutton">OCIJENI</string>
+    <string name="naslov">Posjetite još...</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="action_settings">Podešavanja</string>
+    <string name="txt1">Zemaljski Muzej</string>
+    <string name="txt2">Narodno Pozorište</string>
+    <string name="txt3">Vijećnica</string>
+    <string name="txt4">Sebilj</string>
+    <string name="txt5">Gazi Husrev-begova džamija</string>
+    <string name="txt6">Bijela Tabija</string>
+    <string name="txt7">Muzej knjizevnosti i pozorisne umjetnosti\n\n Sime Milutinovica Sarajlije 7</string>
+    <string name="txt8">Umjetnicka galerija\n\n Zelenih beretki 8</string>
+    <string name="explore">PRETRAŽI</string>
+    <string name="tip">Change in Phone\'s Settings</string>
+    <string name="rate2">Kliknite zvijezdicu da biste ocijenili aplikaciju</string>
+    <string name="rate3">Pritiskom na tipku Ocijeni potvrđujete Vašu ocjenu</string>
+    <string name="home">Početna</string>
+    <string name="support">Podržite muzej</string>
+    <string name="rate">Ocijenite aplikaciju</string>
+    <string name="near">Posjetite još...</string>
+    <string name="like">Svidja vam se muzej?</string>
+    <string name="contest">Najbolji selfie</string>
+    <string name="about">O Muzeju</string>
+    <string name="Info">Info</string>
+    <string name="wnew">Novosti</string>
+    <string name="bos">Bosanski</string>
+    <string name="engl">Engleski</string>
+    <string name="info">Info</string>
+    <string name="db">DRUGI SVIJETSKI RAT</string>
+    <string name="rb">GALERIJA INOVACIJA</string>
+    <string name="ub">GALERIJA OPKOLJENOG SARAJEVA</string>
+    <string name="lb">DJECA I RAT</string>
+    <string name="booktour">Najavi posjetu</string>
+    <string name="book">Najavi posjetu</string>
+    <string name="send_email">Pošalji e-mail</string>
+    <string name="email2">Molim Vas upište datum i vrijeme</string>
+    <string name="whatsnew">Događaji u najavi</string>
+</resources>

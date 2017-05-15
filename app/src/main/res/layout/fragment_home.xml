@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dana.muzej.Fragments.HomeFragment"
+    android:background="@drawable/w2"
+     >
+
+    <View
+        android:id="@+id/viewHome"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="80dp"
+        android:text="@string/explore"
+        android:id="@+id/explore"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:cursorVisible="true"
+        android:contextClickable="true"
+        android:ellipsize="marquee"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_selector2" />
+
+</RelativeLayout>

@@ -1,0 +1,187 @@
+<resources>
+
+    <string name="app_name">History Museum</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- STRINGS FOR ACTION BAR OVERFLOW IN main.xml -->
+
+    <string name="engl">English</string>
+    <string name="bos">Bosnian</string>
+
+    <!-- END STRINGS FOR ACTION BAR OVERFLOW IN main.xml -->
+
+    <string name="explore">Explore</string>
+
+
+    <string name="hello_blank_fragment" translatable="false"></string>
+
+    <!-- STRINGS FOR FRAGMENT_ABOUT_MUSEUM -->
+    <string name="about1">About Museum</string>
+
+    <string name="about2">History Museum of Bosnia and Herzegovina deals with the collection, preservation, research, presentation and promotion of cultural and historical heritage of Bosnia and Herzegovina. In its seventy years’ history, he has gone through a series of transformations: from the name change, to changes in the structure and location.\n\n</string>
+
+    <string name="about3">Originated from the Museum of the Revolution of Bosnia and Herzegovina which has been aimed at history of the struggle against fascism in World War II, History Museum today talks about different topics and stages of Bosnian history - often through the eyes of time witnesses and through perspective of an ordinary man.\n\n</string>
+
+    <string name="about4">After the war 1992-1995, the museum, like other cultural institutions with state sign, remained outside of the legal framework and without regular financial support. The museum has survived thanks to the concept of its openness towards society and strengthening links with the community, offering public facilities by which the museum objects, stories and space talk about the past, present and future.\n\n</string>
+
+    <string name="about5">Museum is specific and unique building which was projected by Boris Magas, Edo Šmidihen and Radovan Horvat, which is a unique example of the international style in architecture. Its dominant cube and clean forms even today stand out in the panorama of the city of Sarajevo.\n\n</string>
+
+    <!-- END STRINGS FOR FRAGMENT_ABOUT_MUSEUM -->
+
+
+    <!-- STRINGS FOR FRAGMENT_INFO -->
+
+    <string name="info1">
+            Address:\nZmaja od Bosne 5, 71 000 Sarajevo
+
+    </string>
+
+    <string name="info11">
+            Admission:\n
+            Adults: 5KM\n
+            School groups: 2KM\n
+            Persons\nwith disabilities: 1KM\n
+    </string>
+
+    <string name="info12">
+            Guided tour:\n
+            English: 30KM\n
+            Bosnian: 20KM\n
+    </string>
+
+    <string name="info2">
+        Working hours:\n09:00 - 19:00
+    </string>
+
+    <string name="info3">
+        Phone:\n+387 33 226 098\n+387 33 210 416
+    </string>
+
+    <string name="info4">
+        Director:\nElma Hasimbegovic
+    </string>
+
+    <string name="info5">
+        E-mail:\nhistmuz@bih.net.ba\nhasimbegovic@muzej.ba
+
+    </string>
+
+    <!-- END STRINGS FOR FRAGMENT_INFO -->
+
+
+    <!-- STRINGS FOR FRAGMENT_SUPPORT_US -->
+
+    <string name="support1">
+        JOIN US
+    </string>
+
+    <string name="support2">
+         SUPPORT MUSEUM
+    </string>
+
+    <string name="support3">
+        “Even a modest donation will help keep the Louvre’s exceptional heritage alive. Thank you for your generosity, a true anchor of support for our projects.\nJean-Luc Martinez, President-Director of the Musée du Louvre\n\n
+    </string>
+
+    <string name="support4">
+        Individual support\n\n
+        No matter how large or small, private donations are an important source of support for the History Museum. Your contribution will help us collect, preserve, and display cultural and historical heritage. One-time donations can be transferred to the Museum\'s bank account:\n\n
+        Bank: Raiffeisen Bank d.d. Bosna i Hercegovina, Sarajevo\n
+        Account no.: 1610000016710007\n
+        IBAN: BA 391610000016710007\n
+        SWIFT: RZBABA2S\n\n\n
+    </string>
+
+    <string name="support5">
+        Sponsors and partners\n\n
+        Support the History Museum of Bosnia and Herzegovina as a sponsor or corporate partner by sponsoring the collection, preservation, and presentation of cultural and historical heritage. Sponsoring or partnering with one of the most highly regarded cultural institutions in the country will help you realise your philanthropic and business goals in line with the principles of social responsibility. The Museum offers different kinds of sponsorship and partnership: long-term support to departments, sections, collections, exhibitions, and exhibits. Depending on your affinities and abilities, you can opt for one or more forms of cooperation and support. For more details, contact our administrative offices by e-mail: hasimbegovic@muzej.ba, or call: + (387) 33/226 098.\n\n 
+    </string>
+
+    <string name="support6">
+        Support the museum mobile application\n\n
+        The History Museum mobile application offers not only basic information about its activities, but also unique insight into the museum’s collections. Visitors can take a virtual tour of departments and exhibitions. Exhibits are shown in high-resolution photographs. In addition, the mobile application will show artefacts that are not on display in permanent exhibitions, but that are kept in storage. Contribute to the enlargement of the Museum\'s virtual collection by making a private donation or via a sponsorship or partnership package!\n\n
+    </string>
+
+    <string name="support7">
+        Artefact donations\n\n
+        The donation of historically significant artefacts has always been one of the main ways in which museums enlarge their collections. The History Museum of Bosnia and Herzegovina is no exception: we are happy to provide exceptional care for items you think may warrant scientific attention. If you have one or more such items which you would like to donate to the museum, please get in touch via e-mail: hasimbegovic@muzej.ba or phone: + (387) 33/226 098. Please do not deliver items (by mail or in person) before our curators have had a chance to assess them.\n\n
+    </string>
+
+    <!-- END STRINGS FOR FRAGMENT_SUPPORT_US -->
+
+    <!-- STRINGS FOR FRAGMENT_NEARBY -->
+
+    <string name="naslov">Nearby Places</string>
+    <string-array name="place_names">
+        <item>Sebilj</item>
+        <item>Sarajevo National Theater</item>
+        <item>National Museum of Bosnia and Herzegovina</item>
+        <item>The White Fortress</item>
+        <item>Sacred Heart Cathedral</item>
+        <item>Gazi Husrev-bey Mosque</item>
+        <item>Sarajevo City Hall</item>
+    </string-array>
+
+    <string-array name="streets">
+        <item>Bascarsija</item>
+        <item>Obala Kulina bana 9</item>
+        <item>Zmaja od Bosne 3</item>
+        <item>Sarajevo</item>
+        <item>Sacred Heart Cathedral</item>
+        <item>Gazi Husrev-bey Mosque</item>
+        <item>Sarajevo City Hall</item>
+    </string-array>
+
+    <array name="place_pics">
+        <item>@drawable/sebilj_nearby</item>
+        <item>@drawable/theater_nearby</item>
+        <item>@drawable/muzej_nearby</item>
+        <item>@drawable/bijelatabija_nearby</item>
+        <item>@drawable/dzamija_nearby</item>
+        <item>@drawable/vijecnica_nearby</item>
+    </array>
+
+    <string name="txt1">National Museum\nZmaja od Bosne 3</string>
+    <string name="txt2">National Theater\nObala Kulina bana 9</string>
+    <string name="txt3">Vijecnica\nObala Kulina bana</string>
+    <string name="txt4">Sebilj\nBascarsija</string>
+    <string name="txt5">Gazi Husrev-beg Mosque\nSaraci 8</string>
+    <string name="txt6">The White Fortress</string>
+    <string name="txt7">Museum of Literature and Performing Arts\n\n Sime Milutinovica Sarajlije 7</string>
+    <string name="txt8">Art Gallery of Bosnia and Herzegovnia\n\n Zelenih beretki 8</string>
+
+    <!-- END STRINGS FOR FRAGMENT_NEARBY -->
+
+    <!-- STRINGS FOR RATE_FRAGMENT -->
+
+    <string name="rate1">Your rate leads us to improvement!</string>
+    <string name="rate2">Tap a star to rate out app</string>
+    <string name="rate3">By clicking button Done you submit your rate</string>
+    <string name="ratebutton">Done</string>
+
+    <!-- END STRINGS FOR RATE_FRAGMENT-->
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip">Promijeni u postavkama telefona</string>
+    <string name="home">Home</string>
+    <string name="support">Support Museum</string>
+    <string name="rate">Rate Us</string>
+    <string name="near">Nearby Places</string>
+    <string name="like">Like the Museum?</string>
+    <string name="contest">Photo Contest</string>
+    <string name="about">About Museum</string>
+    <string name="Info">Info</string>
+    <string name="wnew">What\'s new?</string>
+    <string name="info">Info</string>
+    <string name="whatsnew">Upcoming events</string>
+    <string name="email2">Please, write exact date and time.</string>
+    <string name="booktour">Book a tour</string>
+    <string name="book">Book a tour</string>
+    <string name="send_email">Send e-mail</string>
+
+
+</resources>
